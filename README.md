@@ -1,5 +1,5 @@
 <h1>Week-13_Stage-1_Group-3_Finest-Professionals</h1>
-<h2>Summary Insight dari EDA**</h2>
+<h2><strong>Summary Insight dari EDA</strong></h2>
 
 <h3>I. Descriptive Statistics</h3>
 <h4>A. Terdapat tipe data atau nama kolom dan isinya yang sesuai dan kurang kurang sesuai:</h4>
