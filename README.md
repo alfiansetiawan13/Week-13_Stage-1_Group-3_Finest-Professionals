@@ -33,3 +33,25 @@
 - Kontak paling banyak terjadi pada bulan Mei, yang juga menghasilkan jumlah pelanggan berlangganan deposito berjangka tertinggi dalam setahun.
 - Hasil kampanye yang sukses memiliki tingkat rasio yang paling baik.
 
+**Business Insight**
+- Hanya 11,6% nasabah yang sudah membuka deposito berjangka. Artinya hanya ada 5.300 nasabah yang berlangganan, dan 40.055 lainnya belum berlangganan deposito.
+- Rata-rata usia pelanggan/nasabah ialah berusia sekitar 30 sampai 40 tahun.
+- Nasabah yang paling banyak membuka deposito berjangka berusia sekitar 30-40 tahun dan sudah menikah.
+- Nasabah yang belum membuka deposit rata-rata berusia 30-40 tahun.
+- Pelanggan yang memiliki housing loan (pinjaman rumah) cenderung tidak memilih untuk membuka deposito.
+- Pelanggan yang tidak memiliki loan (pinjaman pribadi) lebih banyak yang mengambil deposito berjangka dibandingkan dengan pelanggan yang memiliki loan.
+
+**Business Recomendation**
+- **Segmentasi target**<br>
+Data menunjukan bahwa pelanggan dalam rentang usia 30-40 tahun cenderung memiliki minat yang tinggi terhadap produk deposito. Kami merekomendasikan untuk melakukan segmentasi target yang lebih spesifik pada kelompok usia ini demi meningkatkan efektivitas kampanye pemasaran.
+- **Fokus pada pelanggan yang tidak memiliki loan**<br>
+Pelanggan yang tidak memiliki loan cenderung memiliki minat yang tinggi terhadap produk deposito. Hal tersebut bisa jadi karena mereka tidak memiliki beban keuangan, sehingga mereka bisa mengalokasikan dana pribadi mereka ke investasi, salah satunya deposito berjangka.
+- **Fokus pada pelanggan yang tidak memiliki housing loan**<br>
+Sama seperti pelanggan yang tidak memiliki pinjaman pribadi, kita dapat memberikan campaign terkait manfaat investasi sejak dini kepada pelanggan yang tidak memiliki housing loan. Harapannya, mereka bisa mengalokasikan uang yang mereka punya untuk berlangganan deposito berjangka di bank kita.
+- **Personalisasi komunikasi**<br>
+Jika dipetakan kembali, nasabah yang cenderung memiliki minat berlangganan deposito berjangka ialah mereka yang berusia 30-40 tahun, sudah menikah, tidak memiliki beban pinjaman. Untuk itu, kita dapat membuat campaign yang lebih personal, seperti:
+<ol>
+  - Campaign untuk memberikan awareness tentang pentingnya investasi sejak ini untuk mempersiapkan dana pendidikan untuk anak.<br>
+  - Merekomendasikan deposito dengan bunga tinggi sebagai tabungan membeli rumah<br>
+  - Menampilkan keunggulan deposito dibanding investasi lain
+</ol>
