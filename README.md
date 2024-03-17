@@ -41,7 +41,7 @@
 <li>Pelanggan yang memiliki housing loan (pinjaman rumah) cenderung tidak memilih untuk membuka deposito.</li>
 <li>Pelanggan yang tidak memiliki loan (pinjaman pribadi) lebih banyak yang mengambil deposito berjangka dibandingkan dengan pelanggan yang memiliki loan.</li>
 
-<h3><strong>Business Recomendation</strong></h3>
+<h3><strong>Business Recommendation</strong></h3>
 <ul>
   <li>
     <strong>Segmentasi target</strong><br>
